@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stevens-study-planner/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/stevens-study-planner/static/js/main.eee971fd.chunk.js",
+    "main.js.map": "/stevens-study-planner/static/js/main.eee971fd.chunk.js.map",
+    "runtime-main.js": "/stevens-study-planner/static/js/runtime-main.ac1ccb4f.js",
+    "runtime-main.js.map": "/stevens-study-planner/static/js/runtime-main.ac1ccb4f.js.map",
+    "static/js/2.6517eca7.chunk.js": "/stevens-study-planner/static/js/2.6517eca7.chunk.js",
+    "static/js/2.6517eca7.chunk.js.map": "/stevens-study-planner/static/js/2.6517eca7.chunk.js.map",
+    "static/js/3.18ff019e.chunk.js": "/stevens-study-planner/static/js/3.18ff019e.chunk.js",
+    "static/js/3.18ff019e.chunk.js.map": "/stevens-study-planner/static/js/3.18ff019e.chunk.js.map",
+    "index.html": "/stevens-study-planner/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/stevens-study-planner/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6517eca7.chunk.js.LICENSE.txt": "/stevens-study-planner/static/js/2.6517eca7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/stevens-study-planner/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac1ccb4f.js",
+    "static/js/2.6517eca7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.eee971fd.chunk.js"
+  ]
+}
