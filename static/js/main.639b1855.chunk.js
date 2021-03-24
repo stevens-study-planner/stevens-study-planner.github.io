@@ -1,0 +1,2 @@
+(this["webpackJsonpstudy-planner"]=this["webpackJsonpstudy-planner"]||[]).push([[0],{20:function(n,e,t){},21:function(n,e,t){},28:function(n,e,t){"use strict";t.r(e);var c=t(0),r=t(10),o=t.n(r),s=t(6),i=(t(20),t(21),t(11)),u=t(12),a=t(15),d=t(14),p=t(2);c.Component;var l=function(){return Object(p.jsx)("div",{children:"Hello"})};o.a.render(Object(p.jsx)(s.a,{children:Object(p.jsx)(l,{})}),document.getElementById("root"))}},[[28,1,2]]]);
+//# sourceMappingURL=main.639b1855.chunk.js.map

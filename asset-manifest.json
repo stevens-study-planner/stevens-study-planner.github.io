@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stevens-study-planner/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/stevens-study-planner/static/js/main.055bb2b5.chunk.js",
-    "main.js.map": "/stevens-study-planner/static/js/main.055bb2b5.chunk.js.map",
+    "main.js": "/stevens-study-planner/static/js/main.639b1855.chunk.js",
+    "main.js.map": "/stevens-study-planner/static/js/main.639b1855.chunk.js.map",
     "runtime-main.js": "/stevens-study-planner/static/js/runtime-main.dc8c6d94.js",
     "runtime-main.js.map": "/stevens-study-planner/static/js/runtime-main.dc8c6d94.js.map",
     "static/js/2.77793d9c.chunk.js": "/stevens-study-planner/static/js/2.77793d9c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dc8c6d94.js",
     "static/js/2.77793d9c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.055bb2b5.chunk.js"
+    "static/js/main.639b1855.chunk.js"
   ]
 }
